@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @karastift
+- 👀 I’m interested in web development/app development
+- 🌱 I’m currently learning React/NextJs/React Native/NodeJs/Postgresql/Typescript
+- 💞️ I want to work on projects related to the technologies I am learning.
+- 📫 You can reach me by mail: kiansinan@gmail.com
