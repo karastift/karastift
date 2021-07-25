@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kian, a german student, born in 2005
 - 👀 I’m interested in web development/app development
-- 🌱 I’m currently learning Go/React/NextJs/React Native/NodeJs/Postgresql/Typescript
+- 🌱 I’m currently learning React Native/NodeJs/Postgresql/Typescript
 - 💞️ I want to work on projects related to the technologies I am learning.
 - 📫 You can reach me by mail: kiansinan@gmail.com
