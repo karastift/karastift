@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Kian, a german student, born in 2005
-- 👀 I’m interested in web development/app development
-- 📫 You can reach me by mail: kiansinan@gmail.com
+
